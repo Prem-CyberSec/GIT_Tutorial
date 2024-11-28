@@ -73,6 +73,6 @@ To maintain code quality, please adhere to the following coding standards:
 
 - If you encounter any bugs or have suggestions for improvements, please report them by creating an issue in the **[Repository](https://github.com/Hardhat-Enterprises/Deakin-Detonator-Toolkit/issues)**. Be sure to include as much detail as possible, including steps to reproduce any bugs.
 
-## Code of Conduct
+## 👨👩sCode of Conduct
 
-We aim to create a professional and welcoming environment for all contributors in the team. Please review our [Code of Conduct]() for guidelines on how to engage respectfully within our project. Thank you for contributing to the Deakin Detonator Toolkit! Your efforts help improve this project for everyone.
+We aim to create a professional and welcoming environment for all contributors in the team. Please review our **[Code of Conduct]()** for guidelines on how to engage respectfully within our project. Thank you for contributing to the Deakin Detonator Toolkit! Your efforts help improve this project for everyone.
