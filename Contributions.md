@@ -21,14 +21,14 @@ To get started with contributing, follow these steps; If you're not familiar wit
    cd ~/path/to/Deakin-Detonator-Toolkit
 
 2. **Set Up the Development Environment**:
-Follow the instructions in the [README](https://github.com/Hardhat-Enterprises/Deakin-Detonator-Toolkit/blob/main/README.md#-setup) to set up your environment and run the application locally.
+Follow the instructions in the **[README](https://github.com/Hardhat-Enterprises/Deakin-Detonator-Toolkit/blob/main/README.md#-setup)** to set up your environment and run the application locally.
 
 ## ✍️How to Contribute
 
 We welcome various types of contributions, including:
 - **Bug Fixes**: Identify and fix bugs in the codebase.
 - **New Features**: Propose and implement new features or enhancements.
-- **Documentation Improvements**: Help improve project documentation and Architectural Decision Record.
+- **Documentation Improvements**: Help improve project documentation and architectural decision record.
 - **Testing**: Perform testing on the appilcation to ensure code reliability and stability.
 
 ## ⚠️Coding Standards
@@ -73,6 +73,6 @@ To maintain code quality, please adhere to the following coding standards:
 
 - If you encounter any bugs or have suggestions for improvements, please report them by creating an issue in the **[Repository](https://github.com/Hardhat-Enterprises/Deakin-Detonator-Toolkit/issues)**. Be sure to include as much detail as possible, including steps to reproduce any bugs.
 
-## 👨👩sCode of Conduct
+## 👨👩Code of Conduct
 
 We aim to create a professional and welcoming environment for all contributors in the team. Please review our **[Code of Conduct]()** for guidelines on how to engage respectfully within our project. Thank you for contributing to the Deakin Detonator Toolkit! Your efforts help improve this project for everyone.
