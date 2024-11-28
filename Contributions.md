@@ -1,6 +1,6 @@
 #  🧑‍💼Contributing to Deakin Detonator Toolkit
 
-Thank you for your interest in contributing to the Deakin Detonator Toolkit aka PT-GUI project! This project is a student run and we welcome contributions from the students of Deakin to enhance this penetration testing toolkit made for students by students with students. Please follow the guidelines below to ensure a smooth contribution process.
+Thank you for your interest in contributing to the Deakin Detonator Toolkit aka PT-GUI project! This project is student run and we welcome contributions from the students of Deakin to enhance this penetration testing toolkit. Please follow the guidelines below to ensure a smooth contribution process.
 
 ## Table of Contents
 
