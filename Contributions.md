@@ -42,7 +42,7 @@ To maintain code quality, please adhere to the following coding standards:
    -  ```bash
          yarn run style
          npx prettier -w file-name
-- If you're still unsure what more is needed of coding standards, the team recommends you to refer the **[coding Standards](https://deakin365.sharepoint.com/:b:/s/HardhatEnterprises2/ESf1jjS7KOJCt1QnALLgmY8BAxWJouKQGX3itT94KG_Iog?e=5MHBFa)**
+- If you're still unsure what more is needed of coding standards, the team recommends you to refer the **[Coding Standards](https://deakin365.sharepoint.com/:b:/s/HardhatEnterprises2/ESf1jjS7KOJCt1QnALLgmY8BAxWJouKQGX3itT94KG_Iog?e=5MHBFa)**
 
 ## Submitting Contributions
 
@@ -67,11 +67,11 @@ To maintain code quality, please adhere to the following coding standards:
 
 5. **Create a Pull Request**:
 
-- Go to the repository on GitHub and create a new **[pull request](https://github.com/Hardhat-Enterprises/Deakin-Detonator-Toolkit/pulls)** from your branch to main. Provide a clear description of your changes and why they are needed.
+- Go to the repository on GitHub and create a new **[Pull request](https://github.com/Hardhat-Enterprises/Deakin-Detonator-Toolkit/pulls)** from your branch to main. Provide a clear description of your changes and why they are needed.
 
 ## Reporting Issues
 
-- If you encounter any bugs or have suggestions for improvements, please report them by creating an issue in the **[repository](https://github.com/Hardhat-Enterprises/Deakin-Detonator-Toolkit/issues)**. Be sure to include as much detail as possible, including steps to reproduce any bugs.
+- If you encounter any bugs or have suggestions for improvements, please report them by creating an issue in the **[Repository](https://github.com/Hardhat-Enterprises/Deakin-Detonator-Toolkit/issues)**. Be sure to include as much detail as possible, including steps to reproduce any bugs.
 
 ## Code of Conduct
 
