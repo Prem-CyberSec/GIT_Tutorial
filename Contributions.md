@@ -9,7 +9,6 @@ Thank you for your interest in contributing to the Deakin Detonator Toolkit aka 
 - [Coding Standards](#coding-standards)
 - [Submitting Contributions](#submitting-contributions)
 - [Reporting Issues](#reporting-issues)
-- [Code of Conduct](#code-of-conduct)
 
 ## 👶Getting Started
 
