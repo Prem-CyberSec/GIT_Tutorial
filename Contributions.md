@@ -11,7 +11,7 @@ Thank you for your interest in contributing to the Deakin Detonator Toolkit aka 
 - [Reporting Issues](#reporting-issues)
 - [Code of Conduct](#code-of-conduct)
 
-## Getting Started
+## 👶Getting Started
 
 To get started with contributing, follow these steps; If you're not familiar with using Git team recommends you to first understand how the **[Git](https://deakin365.sharepoint.com/:w:/s/HardhatEnterprises2/Ee1Nlb_OZDVIlElD5RBO5o0BzG0OTRTFHIhWpTNwaxthmQ?e=Bg0rTb)** works with **[GitHub](https://deakin365.sharepoint.com/:b:/s/HardhatEnterprises2/ETU_JVpc67BCqgp6W7vm9ewBzbWCnlneQc-mzhiOIwGd8g?e=2pW0ld)**.
 
@@ -23,7 +23,7 @@ To get started with contributing, follow these steps; If you're not familiar wit
 2. **Set Up the Development Environment**:
 Follow the instructions in the [README](https://github.com/Hardhat-Enterprises/Deakin-Detonator-Toolkit/blob/main/README.md#-setup) to set up your environment and run the application locally.
 
-## How to Contribute
+## ✍️How to Contribute
 
 We welcome various types of contributions, including:
 - **Bug Fixes**: Identify and fix bugs in the codebase.
@@ -31,7 +31,7 @@ We welcome various types of contributions, including:
 - **Documentation Improvements**: Help improve project documentation and Architectural Decision Record.
 - **Testing**: Perform testing on the appilcation to ensure code reliability and stability.
 
-## Coding Standards
+## ⚠️Coding Standards
 
 To maintain code quality, please adhere to the following coding standards:
 - Use consistent indentation (**2 spaces** for JavaScript/TypeScript).
@@ -44,7 +44,7 @@ To maintain code quality, please adhere to the following coding standards:
          npx prettier -w file-name
 - If you're still unsure what more is needed of coding standards, the team recommends you to refer the **[Coding Standards](https://deakin365.sharepoint.com/:b:/s/HardhatEnterprises2/ESf1jjS7KOJCt1QnALLgmY8BAxWJouKQGX3itT94KG_Iog?e=5MHBFa)**
 
-## Submitting Contributions
+## 🧑‍🍳Submitting Contributions
 
 1. **Create a New Branch**:
    -  ```bash
@@ -69,7 +69,7 @@ To maintain code quality, please adhere to the following coding standards:
 
 - Go to the repository on GitHub and create a new **[Pull request](https://github.com/Hardhat-Enterprises/Deakin-Detonator-Toolkit/pulls)** from your branch to main. Provide a clear description of your changes and why they are needed.
 
-## Reporting Issues
+## 👮Reporting Issues
 
 - If you encounter any bugs or have suggestions for improvements, please report them by creating an issue in the **[Repository](https://github.com/Hardhat-Enterprises/Deakin-Detonator-Toolkit/issues)**. Be sure to include as much detail as possible, including steps to reproduce any bugs.
 
